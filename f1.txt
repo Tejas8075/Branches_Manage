@@ -2,4 +2,19 @@ No world
 
 Hell world
 
+
 print("Hello World")
+
+pubic class TD1{
+
+	public static void main(String[] args) {
+
+		System.out.println("Hello world");
+		int i = 19;
+		int f = 23
+		int add = i + f;
+		System.out.println(add);
+	
+	}
+
+}
